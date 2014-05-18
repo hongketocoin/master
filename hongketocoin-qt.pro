@@ -282,7 +282,7 @@ SOURCES += src/qt/hongketocoin.cpp \
     src/txdb.cpp \
     src/qt/splashscreen.cpp
 
-RESOURCES += src/qt/hongketogcoin.qrc
+RESOURCES += src/qt/hongketocoin.qrc
 
 FORMS += src/qt/forms/sendcoinsdialog.ui \
     src/qt/forms/addressbookpage.ui \
